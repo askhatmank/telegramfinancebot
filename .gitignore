@@ -42,3 +42,5 @@ __pycache__/
 .DS_Store
 *.log
 logs/
+*.key
+/secrets/
